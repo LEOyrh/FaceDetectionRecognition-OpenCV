@@ -1,8 +1,8 @@
 # OpenCV Research
 
-A Research on OpenCV's capabilities face detection and recognition hosted on a Raspberry PI for a prospective IoT home security system 
+A Research on OpenCV's capabilities in regards to face detection and recognition hosted on a Raspberry PI for a prospective IoT home security system 
 
-## Where to start 
+## Where to start? 
 <p><h4>1st</h4> - Start with the OpenCV install doc</p>
 <p><h4>2nd</h4> - Follow the videos for detailed explanation:</p>
 
