@@ -5,12 +5,19 @@ A Research on OpenCV's capabilities face detection and recognition hosted on a R
 ## Where to start 
 1st - Start with the OpenCV install doc
 2nd - Follow the videos for detailed explanation:
-[OpenCV InstallationPt1](https://youtu.be/wTLws48u02g) 
-[OpenCV InstallationPt2](https://youtu.be/RH9ILZDL900)
-[Face Detection and Data Gathering](https://youtu.be/K991xb-ozKA)
-[Face Detection and Data Gathering Live](https://youtu.be/-gHYLn7idVA)
-[Face Training and Recognizing Pt1](https://youtu.be/nqb9dhIR-Kw)
-[Face Training and Recognizing Pt2](https://youtu.be/xkwMPqs5owY)
+
+> [OpenCV InstallationPt1](https://youtu.be/wTLws48u02g) 
+
+> [OpenCV InstallationPt2](https://youtu.be/RH9ILZDL900)
+
+> [Face Detection and Data Gathering](https://youtu.be/K991xb-ozKA)
+
+> [Face Detection and Data Gathering Live](https://youtu.be/-gHYLn7idVA)
+
+> [Face Training and Recognizing Pt1](https://youtu.be/nqb9dhIR-Kw)
+
+> [Face Training and Recognizing Pt2](https://youtu.be/xkwMPqs5owY)
+
 3rd - Look at the images for a better view
 4th - Check out the results and issues doc
 
