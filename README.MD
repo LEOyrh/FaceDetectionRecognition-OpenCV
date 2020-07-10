@@ -18,7 +18,7 @@ A Research on OpenCV's capabilities face detection and recognition hosted on a R
 
 > [Face Training and Recognizing Pt2](https://youtu.be/xkwMPqs5owY)
 
-<p>3rd - Look at the images for a better view</p>
-<p>4th - Check out the results and issues doc</p>
+<p><h4>3rd</h4> - Look at the images for a better view</p>
+<p><h4>4th</h4> - Check out the results and issues doc</p>
 
 # Happy researching!
